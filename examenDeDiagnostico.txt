@@ -1,0 +1,28 @@
+Nombre: Carlos Antonio Jaime Garcia
+Fecha: 08/03/2019
+Email: carlosjaimewd@gmail.com
+Git: https://github.com/CarlosJaimeWD
+
+¿Describa el concepto de pila?
+Tipo de herramienta de almacenamiento donde el primer dato que entra es el ultimo que sale
+¿Describa el concepto de lista doblemente ligada?
+Un tipo de lista el cual tiene el mismo id o identificador de columna para acceder a los datos compartidos
+¿Describa el concepto de recursividad?
+Instruccion que se repetira hasta que se cumpla el proposito
+¿Describa el concepto de compilador?
+Porgrama que se encarga de convertir un lenguaje de alto nivel a unos entendible por el ordenador
+¿Describa el concepto de un lenguaje de programación interpretado?
+¿Describa el concepto de sobrecargar un método?
+Es crear un metodo con el mismo nombre pero con diferentes atributos
+¿Describa para que se utiliza el constructor?
+ Para llenar los atributos de un objeto
+¿Describa el concepto de polimorfismo?
+Reutilizar codigo de una manera eficiente
+identifique los componentes relacionados a la estructura lifo:
+
+¿A que se le conoce como apuntador y cuáles son sus características?
+Es un espacio en memoria
+¿Explique la diferencia entre el while y el do-while?
+el while ejecuta el codigo
+¿Describa las expectativas de las materias?
+Aprender mas acerca de crear interfacez e implementar mejor el codigo con las interfacez
