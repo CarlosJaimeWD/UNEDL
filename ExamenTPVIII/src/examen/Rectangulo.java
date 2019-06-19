@@ -49,10 +49,6 @@ public class Rectangulo {
     public static double calcularArea() {
         area = base * altura;
         return area;
-    }
-    
-    
-
-    
+    }   
     
 }
