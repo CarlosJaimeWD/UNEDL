@@ -17,7 +17,6 @@ public class Rotacion {
      */
     public static void main(String[] args) {
         ArrayList<Integer> array = new ArrayList<Integer>();
-        ArrayList<Integer> array2 = new ArrayList<Integer>();
         
         int tamaño = Integer.parseInt(JOptionPane.showInputDialog("Ingresa el tamaño de arreglo"));
         int rotacion = Integer.parseInt(JOptionPane.showInputDialog("Ingresa el numero de rotaciones"));
@@ -26,15 +25,13 @@ public class Rotacion {
             array.add(i+1);
         }
         
+        int numero;
         for (int i = 0; i < rotacion; i++) {
-            array2.add(i+1);
-            array.remove(i);
+            numero = array.get(0);
+            array.remove(0);
+            array.add(numero);
         }
-        
-        for (Integer integer : array2) {
-            array.add(integer);
-        }
-        
+         
         JOptionPane.showMessageDialog(null, array.toString(), "Arreglo rotado", 1);
     }
     
