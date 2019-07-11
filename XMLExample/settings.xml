@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="12" class="java.beans.XMLDecoder">
+ <object class="com.XML.DVD" id="DVD0">
+  <void property="movies">
+   <void method="add">
+    <object class="com.XML.empleados">
+     <void property="apellido">
+      <string>jaime</string>
+     </void>
+     <void property="id">
+      <int>1</int>
+     </void>
+     <void property="nombre">
+      <string>carlos</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.XML.empleados">
+     <void property="apellido">
+      <string>garcia</string>
+     </void>
+     <void property="id">
+      <int>2</int>
+     </void>
+     <void property="nombre">
+      <string>pepe</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
